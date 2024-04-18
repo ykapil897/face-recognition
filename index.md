@@ -37,7 +37,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
 
 ## Contributors
-| ![Kapil Yadav](images/badminton.jpg) | ![Vivek Sapka](images/ACAC.jpg) | ![Heramb Gavankar](images/SAC.jpg) | ![Arsewad Bhagwan](images/Student bodies.jpg) | ![Raj Patel](images/acac.jpg) | ![Suhani](images/basketball.jpg) | ![Jatin](images/cricket.jpg) |
+| ![Kapil Yadav](images/Badminton.jpg) | ![Vivek Sapka](images/ACAC.jpg) | ![Heramb Gavankar](images/SAC.jpg) | ![Arsewad Bhagwan](images/table-tennis.jpg) | ![Raj Patel](images/acac.jpg) | ![Suhani](images/basketball.jpg) | ![Jatin](images/cricket.jpg) |
 
 |---------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|-------------------------------------------|------------------------------------------|
 | [Kapil Yadav](#)                           | [Vivek Sapkal](#)                                 | [Heramb Gavankar](#)

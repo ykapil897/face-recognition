@@ -41,13 +41,22 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
 
 ## Contributors
-| ![Kapil Yadav](images/Badminton.jpg) | ![Vivek Sapka](images/ACAC.jpg) | ![Heramb Gavankar](images/SAC.jpg) | ![Arsewad Bhagwan](images/table-tennis.jpg) | ![Raj Patel](images/acac.jpg) | ![Suhani](images/basketball.jpg) | ![Jatin](images/cricket.jpg) |
 
-|---------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|-------------------------------------------|------------------------------------------|
-| [Kapil Yadav](#)                           | [Vivek Sapkal](#)                                 | [Heramb Gavankar](#)
-                                 | [Arsewad Bhagwan](#)                                 | [Raj Patel](#)                         | [Suhani](#)                        | [Jatin](#)                        |
-| ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) |
-| ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) |
+<div style="display: flex; flex-direction: column; align-items: center;">
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="images/Badminton.jpg" alt="Kapil Yadav" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Kapil Yadav</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
+
+  <!-- Repeat the above structure for each contributor -->
+
+</div>
+
 
 
 ## Acknowledgment

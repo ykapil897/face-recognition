@@ -15,7 +15,7 @@ Non-native speakers with limited vocabulary often struggle to name specific obje
 
 ## Classification Problem
 <p align="center">
-  <img src="https://github.com/ykapil897/face-recognition/images/ignus.jpg" alt="My Image">
+  <img src="images/ignus.jpg" alt="My Image">
 </p>
 
 <p align="center">
@@ -28,12 +28,16 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 </p>
 
 ## BibTex
-@InProceedings{cstbir2024aaai,
-        author    = {Gatti, Prajwal and Parikh, Kshitij Gopal and Paul, Dhriti Prasanna and Gupta, Manish and Mishra, Anand},
-        title     = {Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions},
-        booktitle = {AAAI},
-        year      = {2024},
-}   
+<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
+  <pre>
+    @InProceedings{cstbir2024aaai,
+      author = {Gatti, Prajwal and Parikh, Kshitij Gopal and Paul, Dhriti Prasanna and Gupta, Manish and Mishra, Anand},
+      title = {Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions},
+      booktitle = {AAAI},
+      year = {2024},
+    }
+  </pre>
+</div>
 
 
 ## Contributors

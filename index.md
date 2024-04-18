@@ -17,7 +17,7 @@ Non-native speakers with limited vocabulary often struggle to name specific obje
 
 ## Classification Problem
 <p align="center">
-  <img src="https://github.com/ykapil897/face-recognition/website/images/myimage.jpg" alt="My Image">
+  <img src="https://github.com/ykapil897/face-recognition/images/ignus.jpg" alt="My Image">
 </p>
 <p align="center">
 Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat digging in the ground” but does not know the word “numbat”, and the interaction “digging in the ground” is not easy to sketch. Thus, the user may use a hand-drawn sketch of "numbat" along with the text "digging in the ground" to retrieve the desired images.
@@ -38,9 +38,11 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
 
 ## Contributors
-| ![Prajwal Gatti](images/prajwal_gatti.jpg) | ![Kshitij Gopal Parikh](images/kshitij_gopal_parikh.jpg) | ![Dhriti Prasanna Paul](images/dhriti_prasanna_paul.jpg) | ![Manish Gupta](images/manish_gupta.jpg) | ![Anand Mishra](images/anand_mishra.jpg) |
+| ![Kapil Yadav](images/badminton.jpg) | ![Vivek Sapka](images/ACAC.jpg) | ![Heramb Gavankar](images/SAC.jpg) | ![Arsewad Bhagwan](images/Student bodies.jpg) | ![Raj Patel](images/acac.jpg) | ![Suhani](images/basketball.jpg) | ![Jatin](images/cricket.jpg) |
+
 |---------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|-------------------------------------------|------------------------------------------|
-| [Kapil Yadav](#)                           | [Vivek Sapkal](#)                                 | [Heramb Gavankar](#)                                | [Raj Patel](#)                         | [Suhani](#)                        | [Jatin](#)                        |
+| [Kapil Yadav](#)                           | [Vivek Sapkal](#)                                 | [Heramb Gavankar](#)
+                                 | [Arsewad Bhagwan](#)                                 | [Raj Patel](#)                         | [Suhani](#)                        | [Jatin](#)                        |
 | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) | ![LinkedIn](images/linkedin_logo.png) |
 | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) | ![Instagram](images/instagram_logo.png) |
 

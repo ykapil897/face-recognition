@@ -15,7 +15,7 @@ Non-native speakers with limited vocabulary often struggle to name specific obje
 
 ## Classification Problem
 <p align="center">
-  <img src="images/ignus.jpg" alt="My Image">
+  <img src="images/ignus.jpg" alt="My Image" width="50%" height="50%">
 </p>
 
 <p align="center">

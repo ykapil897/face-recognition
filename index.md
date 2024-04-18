@@ -3,11 +3,11 @@
 </h1>
 
 <h4 align="center">
-  Kapil Yadav<sup>1</sup>, Vivek Sapkal<sup>1</sup>, Heramb Gavankar<sup>1</sup>, Raj Patel<sup>2</sup>, Arsewad Bhagwan <sup>1</sup>, Suhani<sup>1</sup>, Jatin<sup>1</sup>
+  Kapil Yadav, Vivek Sapkal, Heramb Gavankar, Raj Patel, Arsewad Bhagwan, Suhani, Jatin
 </h4>
 
 <h4 align="center">
-  [Code](#) | [Dataset](#) | [Poster](#) | [Slides](#) | [Short Talk](#)
+  <a href="#">Code</a> | <a href="#">Dataset</a> | <a href="#">Demo Code</a> | <a href="#">Slides</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
 </h4>
 
 ## Abstract
@@ -45,7 +45,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 <div style="display: flex; justify-content: space-between;">
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/Badminton.jpg" alt="Kapil Yadav" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <img src="images/ACAC.jpg" alt="Kapil Yadav" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p>Kapil Yadav</p>
     <div style="display: flex;">
       <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
@@ -64,7 +64,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p>Vivek Sapkal</p>
+    <p>Heramb Gavankar</p>
     <div style="display: flex;">
       <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
       <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
@@ -73,7 +73,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p>Vivek Sapkal</p>
+    <p>Raj Patel</p>
     <div style="display: flex;">
       <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
       <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
@@ -82,7 +82,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p>Vivek Sapkal</p>
+    <p>Arsewad Bhagwan</p>
     <div style="display: flex;">
       <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
       <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
@@ -91,7 +91,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p>Vivek Sapkal</p>
+    <p>Suhani</p>
     <div style="display: flex;">
       <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
       <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
@@ -100,10 +100,10 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p>Vivek Sapkal</p>
+    <p>Jatin</p>
     <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 15px; height: 15px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 15px; height: 15px;"></a>
     </div>
   </div>
 </div>

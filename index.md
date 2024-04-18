@@ -2,12 +2,10 @@
   Face-Recognition of famous Personalities
 </h1>
 
-## Authors
 <h4 align="center">
   Kapil Yadav<sup>1</sup>, Vivek Sapkal<sup>1</sup>, Heramb Gavankar<sup>1</sup>, Raj Patel<sup>2</sup>, Arsewad Bhagwan <sup>1</sup>, Suhani<sup>1</sup>, Jatin<sup>1</sup>
 </h4>
 
-## Links
 <h4 align="center">
   [Code](#) | [Dataset](#) | [Poster](#) | [Slides](#) | [Short Talk](#)
 </h4>
@@ -19,6 +17,7 @@ Non-native speakers with limited vocabulary often struggle to name specific obje
 <p align="center">
   <img src="https://github.com/ykapil897/face-recognition/images/ignus.jpg" alt="My Image">
 </p>
+
 <p align="center">
 Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat digging in the ground” but does not know the word “numbat”, and the interaction “digging in the ground” is not easy to sketch. Thus, the user may use a hand-drawn sketch of "numbat" along with the text "digging in the ground" to retrieve the desired images.
 </p>

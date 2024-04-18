@@ -19,7 +19,7 @@
   </div>
 
   <div class="mySlides fade">
-    <img src="images/basketball.jpg" style="width:100%">
+    <img src="images/SAC.jpg" style="width:100%">
   </div>
 
   <!-- Add more images as needed -->

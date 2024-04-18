@@ -42,9 +42,9 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
 ## Contributors
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  
-  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
     <img src="images/Badminton.jpg" alt="Kapil Yadav" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p>Kapil Yadav</p>
     <div style="display: flex;">
@@ -53,9 +53,61 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
     </div>
   </div>
 
-  <!-- Repeat the above structure for each contributor -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
+    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p>Vivek Sapkal</p>
+    <div style="display: flex;">
+      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+    </div>
+  </div>
 </div>
+
 
 
 

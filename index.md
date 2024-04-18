@@ -1,8 +1,15 @@
-<p align="center">
+<h1 align="center">
   Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions
-</p>
+</h1>
 
-**Authors:** Prajwal Gatti<sup>1</sup>, Kshitij Gopal Parikh<sup>1</sup>, Dhriti Prasanna Paul<sup>1</sup>, Manish Gupta<sup>2</sup>, Anand Mishra<sup>1</sup>
+## Authors
+
+- [Prajwal Gatti](#)<sup>1</sup>
+- [Kshitij Gopal Parikh](#)<sup>1</sup>
+- [Dhriti Prasanna Paul](#)<sup>1</sup>
+- [Manish Gupta](#)<sup>2</sup>
+- [Anand Mishra](#)<sup>1</sup>
+
 
 **Affiliations:** 
 <sup>1</sup> IIT Jodhpur  

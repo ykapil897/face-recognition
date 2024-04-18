@@ -24,7 +24,7 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 
 ## Short Talk
 <p>
-  <iframe width="560" height="315" src="[[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/s4F7qeVw5mY)](https://www.youtube.com/watch?v=s4F7qeVw5mY)" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/s4F7qeVw5mY" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## BibTex

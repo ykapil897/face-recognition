@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
 <script src="script.js" defer></script>
 
 <h1 align="center">
@@ -15,11 +15,11 @@
 
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <img src="image1.jpg" style="width:100%">
+    <img src="images/ACAC.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="image2.jpg" style="width:100%">
+    <img src="images/ACAC.jpg" style="width:100%">
   </div>
 
   <!-- Add more images as needed -->

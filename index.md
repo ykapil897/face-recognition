@@ -1,27 +1,16 @@
-# Welcome to My GitHub Pages Site!
+# Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions
 
-## About Me
-Hello, I'm [Your Name]! I'm passionate about [What you're passionate about]. 
+**Authors:** Prajwal Gatti<sup>1</sup>, Kshitij Gopal Parikh<sup>1</sup>, Dhriti Prasanna Paul<sup>1</sup>, Manish Gupta<sup>2</sup>, Anand Mishra<sup>1</sup>
 
-## Projects
-Here are some of my projects:
+**Affiliations:** 
+<sup>1</sup> IIT Jodhpur  
+<sup>2</sup> Microsoft
 
-### Project 1
-- **Description:** This is my first project. It's about [describe your project].
-- **Link:** [Project 1 Repository](link-to-your-repo)
-
-### Project 2
-- **Description:** This is my second project. It's about [describe your project].
-- **Link:** [Project 2 Repository](link-to-your-repo)
-
-## Blog
-I also write blog posts about [topics you write about]. Check out my latest posts:
-
-- [Post 1](link-to-your-post1)
-- [Post 2](link-to-your-post2)
-
-## Contact Me
-- **Email:** [Your Email](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin)
-- **Twitter:** [Your Twitter Profile](link-to-your-twitter)
+## Links
+- [Paper](#) (replace with the actual link)
+- [Code](#) (replace with the actual link)
+- [Dataset](#) (replace with the actual link)
+- [Poster](#) (replace with the actual link)
+- [Slides](#) (replace with the actual link)
+- [Short Talk](#) (replace with the actual link)
 

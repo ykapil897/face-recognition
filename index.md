@@ -53,7 +53,7 @@ To achieve our objectives, we employ a spectrum of methodologies, encompassing t
 </p>
 
 <p align="center">
-Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat digging in the ground” but does not know the word “numbat”, and the interaction “digging in the ground” is not easy to sketch. Thus, the user may use a hand-drawn sketch of "numbat" along with the text "digging in the ground" to retrieve the desired images.
+Imagine a user who possesses an image of an individual and aims to identify the person depicted. Despite having the image, the user lacks the name associated with it. In such a situation, the user can leverage a trained model capable of recognizing famous personalities by analyzing their facial features.
 </p>
 
 ## Short Talk

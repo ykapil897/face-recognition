@@ -52,3 +52,16 @@ def convert_to_grayscale(image):
     # Convert to grayscale
     return cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
 
+
+def read_labels_from_file(file_path, label):
+    # Check if the file exists
+    if not os.path.exists(file_path):
+        print(f"File {file_path} does not exist.")
+        return None
+
+    # Read the file and store each line as an item in a list
+    with open(file_path, 'r') as file:
+        strings_list = [line.strip() for line in file.readlines()]
+
+    return strings_list[label]
+

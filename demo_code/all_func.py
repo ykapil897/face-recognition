@@ -49,8 +49,15 @@ def resize_images(image):
     return resized_image
 
 def convert_to_grayscale(image):
-    # Convert to grayscale
-    return cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
+    # Convert PIL Image to OpenCV format if needed
+    if not isinstance(image, np.ndarray):
+        image = np.array(image)
+
+    # Check if the image is not grayscale
+    if len(image.shape) == 3 and image.shape[2] == 3:
+        image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
+
+    return image
 
 
 def read_labels_from_file(file_path, label):

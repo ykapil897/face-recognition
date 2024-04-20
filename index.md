@@ -15,7 +15,7 @@
 
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <img src="images/hog_tansformed_1.jpg" style="width:100%">
+    <img src="images/hog_transformed_1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">

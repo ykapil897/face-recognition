@@ -7,6 +7,7 @@ from io import BytesIO
 import numpy as np
 
 app = Flask(__name__)
+CORS(app)
 
 # Load the pre-trained model
 best_model = joblib.load('best_svm_model_hog_pca.pkl')
@@ -36,8 +37,11 @@ def predict():
     prediction = best_model.predict(image) 
     prediction = read_labels_from_file("names_labels.txt", prediction)
 
-
     return jsonify({'prediction': prediction.tolist()}), 200
+
+@app.errorhandler(500)
+def internal_server_error(error):
+    return jsonify({'error': 'Internal Server Error'}), 500
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)

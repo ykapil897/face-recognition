@@ -2,31 +2,27 @@ import torchvision.transforms as transforms
 from PIL import Image
 import numpy as np
 from skimage.feature import hog
+import os
 import cv2
 
 
-class HOGFeatureExtractor:
-    def _init_(self, orientations=9, pixels_per_cell=(8, 8), cells_per_block=(2, 2)):
-        self.orientations = orientations
-        self.pixels_per_cell = pixels_per_cell
-        self.cells_per_block = cells_per_block
-    
-    def extract_features(self, image):
+def extract_features(image):
+    print("before hog")
+    # Compute HOG features and visualization
+    features, hog_image = hog(image, orientations=9, 
+                                pixels_per_cell=(8, 8),
+                                cells_per_block=(2, 2), 
+                                visualize=True, transform_sqrt=True)
+    print("after hog")
+    print(f"features {np.array(features).shape}")
+    return np.array(features), np.array(hog_image)
 
-        image = image/255
-        # Compute HOG features and visualization
-        features, hog_image = hog(image, orientations=self.orientations, 
-                                    pixels_per_cell=self.pixels_per_cell,
-                                    cells_per_block=self.cells_per_block, 
-                                    visualize=True, transform_sqrt=True)
-    
-        return np.array(features), np.array(hog_image)
+def prepare_data(image):
+    features, hog_image = extract_features(image)
+    # Normalize features
+    print("returned correctly")
+    return features, hog_image
 
-    def prepare_data(self, image):
-        features, hog_image = self.extract_features(image)
-        # Normalize features
-        features = np.array(features)
-        return features, hog_image
 
 def resize_images(image):
     """
@@ -51,16 +47,19 @@ def resize_images(image):
 def convert_to_grayscale(image):
     # Convert PIL Image to OpenCV format if needed
     if not isinstance(image, np.ndarray):
-        image = np.array(image)
+        image = np.array(image).reshape(125, 94, 3)
+        print(type(image))
+        print(image.shape)
 
     # Check if the image is not grayscale
     if len(image.shape) == 3 and image.shape[2] == 3:
         image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
         print("yes")
+        print(image.shape)
     else:
-        print("NO")
-    return image
+        print("no")
 
+    return image
 
 def read_labels_from_file(file_path, label):
     # Check if the file exists
@@ -73,4 +72,6 @@ def read_labels_from_file(file_path, label):
         strings_list = [line.strip() for line in file.readlines()]
 
     return strings_list[label]
+
+
 

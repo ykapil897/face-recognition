@@ -4,7 +4,14 @@ async function predictImage(formData) {
         body: formData,
     });
 
+    if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+    } else {
+        console.log(response);
+    }
+
     const result = await response.json();
+    console.log(result);
     return result;
 }
 
@@ -23,12 +30,14 @@ document.getElementById('imageForm').addEventListener('submit', async (e) => {
         alert('Please upload an image or enter an image URL.');
         return;
     }
-
+    console.log('Uploading');
     try {
         const prediction = await predictImage(formData);
-        document.getElementById('prediction').innerText = `Prediction: ${prediction}`;
+        console.log(prediction);
+        document.getElementById('prediction').innerText = `Prediction: ${prediction.prediction}`;
     } catch (error) {
         console.error('Error predicting image:', error);
         alert('Error predicting image. Please try again.');
     }
 });
+

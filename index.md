@@ -13,25 +13,24 @@
   <a href="#">Code</a> | <a href="#">Dataset</a> | <a href="#">Demo Code</a> | <a href="#">Slides</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
 </h4>
 
-<div class="slideshow-container">
+<div class="slideshow-container" style="text-align: center;">
   <div class="mySlides fade">
-    <img src="images/hog_transformed_1.jpg" style="width:50%">
+    <img src="images/hog_transformed_1.jpg" style="width:50%;">
   </div>
 
   <div class="mySlides fade">
-    <img src="images/hog_transformed_2.jpg" style="width:50%">
+    <img src="images/hog_transformed_2.jpg" style="width:50%;">
   </div>
 
   <div class="mySlides fade">
-    <img src="images/lbp_transformed_1.jpg" style="width:50%">
+    <img src="images/lbp_transformed_1.jpg" style="width:50%;">
   </div>
 
   <div class="mySlides fade">
-    <img src="images/lbp_transformed_2.jpg" style="width:50%">
+    <img src="images/lbp_transformed_2.jpg" style="width:50%;">
   </div>
-
-  <!-- Add more images as needed -->
 </div>
+
 
 <!-- Dots/bullets -->
 <div style="text-align:center; margin-top:20px;">

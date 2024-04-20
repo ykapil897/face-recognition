@@ -56,7 +56,9 @@ def convert_to_grayscale(image):
     # Check if the image is not grayscale
     if len(image.shape) == 3 and image.shape[2] == 3:
         image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
-
+        print("yes")
+    else:
+        print("NO")
     return image
 
 

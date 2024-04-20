@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import joblib
-from all_func import HOGFeatureExtractor, resize_images, convert_to_grayscale
+from all_func import HOGFeatureExtractor, resize_images, convert_to_grayscale, read_labels_from_file
 import requests
 from PIL import Image
 from io import BytesIO
@@ -33,7 +33,9 @@ def predict():
     image = pca.transform(image)
 
     # Make prediction
-    prediction = best_model.predict(image)  # Replace image_data with preprocessed image data
+    prediction = best_model.predict(image) 
+    prediction = read_labels_from_file("names_labels.txt", prediction)
+
 
     return jsonify({'prediction': prediction.tolist()}), 200
 

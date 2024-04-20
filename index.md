@@ -72,80 +72,11 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
   </pre>
 </div>
 
-
-## Contributors
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Kapil Yadav" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Kapil Yadav</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Vivek Sapkal</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Heramb Gavankar</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Raj Patel</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Arsewad Bhagwan</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Suhani</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; width: 150px; margin-right: 20px;">
-    <img src="images/ACAC.jpg" alt="Vivek Sapkal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p align="center">Jatin</p>
-    <div style="display: flex;">
-      <a href="#"><img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 10px;"></a>
-      <a href="#"><img src="images/instagram_logo.png" alt="Instagram" style="width: 20px; height: 20px;"></a>
-    </div>
-  </div>
-</div>
-
 ## Acknowledgment
-This work is supported by the Startup Research Grant from the Science and Engineering Research Board (SERB), Department of Science and Technology, Government of India (Grant No: SRG/2021/001948).
+This work is supported by the OpenAI's CEO SAM ALtan 's trusted chatgpt a reliable agent for everyone.
 
 ## Contact
-For questions, please contact Prajwal Gatti or raise an issue on GitHub.
+For questions, please contact Kapil Yadav or raise an issue on GitHub.
 
 <p align="center">
   Copyright © IIT Jodhpur

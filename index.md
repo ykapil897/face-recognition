@@ -49,7 +49,7 @@ To achieve our objectives, we employ a spectrum of methodologies, encompassing t
 
 ## Classification Problem
 <p align="center">
-  <img src="images/ignus.jpg" alt="My Image" width="50%" height="50%">
+  <img src="images/classification.jpg" alt="My Image" width="50%" height="50%">
 </p>
 
 <p align="center">
@@ -64,12 +64,11 @@ Composite Sketch+Text Based Image Retrieval: A user wants to search “Numbat di
 ## BibTex
 <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
   <pre>
-    @InProceedings{cstbir2024aaai,
-      author = {Gatti, Prajwal and Parikh, Kshitij Gopal and Paul, Dhriti Prasanna and Gupta, Manish and Mishra, Anand},
-      title = {Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions},
-      booktitle = {AAAI},
-      year = {2024},
-    }
+  @InProceedings{cstbir2024aaai,
+        author    = {Sapkal, Vivek and Yadav, Kapil and Arsewad, Bagwan and Gavankar, Heramb and Patel, Raj and Suhani and Jateen},
+        title     = {Face Recognition on Labelled Faces in the Wild (Dataset)},
+        year      = {2024},
+    }      
   </pre>
 </div>
 

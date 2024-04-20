@@ -32,7 +32,7 @@ def predict():
     else : 
         print("no it is not numpy array")
     print(image)  
-    image = resize_images(np.array(image))
+    image = resize_images(image)
     image = convert_to_grayscale(image)
     hog_extractor = HOGFeatureExtractor(orientations=9, pixels_per_cell=(8, 8), cells_per_block=(2, 2))
     image = hog_extractor.prepare_data(image)

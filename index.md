@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-  Kapil Yadav, Vivek Sapkal, Heramb Gavankar, Raj Patel, Arsewad Bhagwan, Suhani, Jatin
+  Kapil Yadav, Vivek Sapkal, Heramb Gavankar, Raj Patel, Arsewad Bhagwan, Suhani, Jateen
 </h4>
 
 <h4 align="center">

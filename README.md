@@ -9,7 +9,7 @@
 * Use **pytorch 1.13.1 CUDA 11.6**
 * Other requirements from 'requirements.txt' 
 
-**To setup environment**
+## To setup environment
 ```
 # create new env face-recognition
 $ conda create -n face-recognition python=3.8.16

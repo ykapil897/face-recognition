@@ -61,17 +61,37 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 </p>
 
 ## BibTex
-<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <pre>
-  @InProceedings{cstbir2024aaai,
-        author    = {Sapkal, Vivek and Yadav, Kapil and Arsewad, Bagwan and Gavankar, Heramb and Patel, Raj and Suhani and Jateen},
-        title     = {Face Recognition on Labelled Faces in the Wild (Dataset)},
-        refs      = {<a href="https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/"> To understand hog </a>, 
-        <a href="http://neuralnetworksanddeeplearning.com/chap2.html"> To understand backpropagation </a>, <a href="https://medium.com/swlh/local-binary-pattern-algorithm-the-math-behind-it-%EF%B8%8F-edf7b0e1c8b3"> To understand LBP </a>}
-        year      = {2024},
-    }      
-  </pre>
-</div>
+@online{AnalyticaVidhya,
+    author = "Aishwarya Singh",
+    title = "Feature Engineering for Images: A Valuable Introduction to the HOG Feature Descriptor",
+    url  = "https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/",
+    addendum = "(accessed: 07.04.2024)",
+    keywords = "latex,Hog,features"
+}
+
+@online{Medium_aricle,
+    author = "Mahmoud Harmouch",
+    title = "Local Binary Pattern Algorithm: The Math Behind It",
+    url  = "https://medium.com/swlh/local-binary-pattern-algorithm-the-math-behind-it-%EF%B8%8F-edf7b0e1c8b3",
+    addendum = "(accessed: 04.04.2024)",
+    keywords = "latex,LocalBinaryPattern,featureExtraction"
+}
+
+@online{Neural_network,
+    author = "Michael Nielsen",
+    title = "How the backpropagation algorithm works",
+    url  = "http://neuralnetworksanddeeplearning.com/chap2.html",
+    addendum = "(accessed: 28.03.2024)",
+    keywords = "latex,neuralnetworks,backpropagation"
+}
+
+@online{CNNResnet,
+    author = "Jeff Prosise",
+    title = "Facial Recognition with CNNs",
+    url  = "https://www.atmosera.com/blog/facial-recognition-with-cnns/",
+    addendum = "(accessed: 14.04.2024)",
+    keywords = "latex,CNN,Resnet"
+}
 
 ## Acknowledgment
 We would like to express my sincere gratitude to Anand Mishra, Assitant Professor, for this course project .

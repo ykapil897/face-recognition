@@ -61,6 +61,8 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 </p>
 
 ## BibTex
+<div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0;">
+    <pre>
 @online{AnalyticaVidhya,
     author = "Aishwarya Singh",
     title = "Feature Engineering for Images: A Valuable Introduction to the HOG Feature Descriptor",
@@ -92,6 +94,9 @@ Imagine a user who possesses an image of an individual and aims to identify the 
     addendum = "(accessed: 14.04.2024)",
     keywords = "latex,CNN,Resnet"
 }
+    </pre>
+</div>
+
 
 ## Acknowledgment
 We would like to express my sincere gratitude to Anand Mishra, Assitant Professor, for this course project .

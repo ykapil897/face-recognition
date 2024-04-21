@@ -72,8 +72,16 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 </div>
 
 ## Acknowledgment
-This work is supported by the OpenAI's CEO SAM ALtan 's trusted chatgpt a reliable agent for everyone.
+We would like to express my sincere gratitude to Anand Mishra, Assitant Professor, for this course project .
+
+Special thanks to [Name, Position/Role], for [specific contribution, e.g., "providing the necessary resources and facilities"].
+
+I am also grateful to [Name], [Position/Role], for [specific contribution, e.g., "their technical assistance and expertise in [specific area]"].
+
+I would also like to thank [Name(s) or Organization(s)], for [specific contribution, e.g., "providing [specific resources or funding]"].
+
+Lastly, I extend my appreciation to [Name], [Position/Role], for [specific contribution, e.g., "their constructive feedback and insightful discussions"].
 
 ## Contact
-For questions, please contact Kapil Yadav or raise an issue on GitHub.
+For questions, please contact any of the coordinators or raise an issue on GitHub.
 

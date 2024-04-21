@@ -10,7 +10,7 @@
 </h4>
 
 <h4 align="center">
-  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="report.pdf" target="_blank">Report</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
+  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="/Report/Report.pdf" target="_blank">Report</a> | <a href="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw">Short Talk</a>
 </h4>
 
 <div class="slideshow-container" style="text-align: center;">
@@ -57,7 +57,7 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 
 ## Short Talk
 <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s4F7qeVw5mY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## BibTex

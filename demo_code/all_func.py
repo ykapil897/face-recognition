@@ -41,24 +41,19 @@ def resize_images(image):
     ])
     
     image_pil = Image.fromarray(np.uint8(image))
-    resized_image = transform(image_pil)
-    return resized_image
+    # resized_image = transform(image_pil)
+    return image_pil
 
 def convert_to_grayscale(image):
     # Convert PIL Image to OpenCV format if needed
     if not isinstance(image, np.ndarray):
         image = np.array(image).reshape(125, 94, 3)
-        print(type(image))
-        print(image.shape)
+
 
     # Check if the image is not grayscale
     if len(image.shape) == 3 and image.shape[2] == 3:
         image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
-        print("yes")
-        print(image.shape)
-    else:
-        print("no")
-
+        
     return image
 
 def read_labels_from_file(file_path, label):
@@ -72,6 +67,8 @@ def read_labels_from_file(file_path, label):
         strings_list = [line.strip() for line in file.readlines()]
 
     return strings_list[label]
+
+
 
 
 

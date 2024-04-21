@@ -66,6 +66,8 @@ Imagine a user who possesses an image of an individual and aims to identify the 
   @InProceedings{cstbir2024aaai,
         author    = {Sapkal, Vivek and Yadav, Kapil and Arsewad, Bagwan and Gavankar, Heramb and Patel, Raj and Suhani and Jateen},
         title     = {Face Recognition on Labelled Faces in the Wild (Dataset)},
+        refs      = {<a href="https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/"> To understand hog </a>, 
+        <a href="http://neuralnetworksanddeeplearning.com/chap2.html"> To understand backpropagation </a>, <a href="https://medium.com/swlh/local-binary-pattern-algorithm-the-math-behind-it-%EF%B8%8F-edf7b0e1c8b3"> To uderstand LBP </a>}
         year      = {2024},
     }      
   </pre>

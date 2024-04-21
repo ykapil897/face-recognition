@@ -1,7 +1,7 @@
 # Face-Recognition
 **Code from paper: Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**
 
-[project page](https://ykapil897.github.io/face-recognition/) | [Report (/Report/Report.pdf)
+[project page](https://ykapil897.github.io/face-recognition/) | [Report] (/Report/Report.pdf)
 
 ## Requirements
 * Use **python >= 3.8.16**. Conda recommended : [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)

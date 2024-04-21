@@ -57,7 +57,7 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 
 ## Short Talk
 <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QA3rB10ZQGw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## BibTex

@@ -1,5 +1,5 @@
 async function predictImage(formData) {
-    const response = await fetch('http://localhost:5000/predict', {
+    const response = await fetch('http://172.31.1.224:5000/predict', {
         method: 'POST',
         body: formData,
     });

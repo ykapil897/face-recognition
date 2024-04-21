@@ -15,7 +15,7 @@
 $ conda create -n face-recognition python=3.8.16
 ```
 
-```
+
 # activate face-recognition
 $ conda activate face-recognition
 

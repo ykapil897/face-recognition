@@ -1,7 +1,7 @@
 # Face-Recognition
 **Face-Recognition on Labelled Faces in the Wild**
 
-[project page](https://ykapil897.github.io/face-recognition/) | <a href="/Report/Report.pdf>Report</a>
+[project page](https://ykapil897.github.io/face-recognition/) | [Report](https://github.com/ykapil897/face-recognition/Report/Report.pdf)
 
 ## Requirements
 * Use **python >= 3.8.16**. Conda recommended : [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)

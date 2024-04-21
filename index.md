@@ -10,7 +10,7 @@
 </h4>
 
 <h4 align="center">
-  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="https://github.com/ykapil897/face-recognition/Report/Report.pdf" target="_blank">Report</a> | <a href="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw">Short Talk</a>
+  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="https://github.com/ykapil897/face-recognition/blob/main/Report/Report.pdf" target="_blank">Report</a> | <a href="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw">Short Talk</a>
 </h4>
 
 <div class="slideshow-container" style="text-align: center;">

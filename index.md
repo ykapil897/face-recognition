@@ -10,7 +10,7 @@
 </h4>
 
 <h4 align="center">
-  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="report.pdf" target="_blank">Report</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
+  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="/Report/Report.pdf" target="_blank">Report</a> | <a href="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw">Short Talk</a>
 </h4>
 
 <div class="slideshow-container" style="text-align: center;">
@@ -57,31 +57,50 @@ Imagine a user who possesses an image of an individual and aims to identify the 
 
 ## Short Talk
 <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s4F7qeVw5mY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/QA3rB10ZQGw?si=kTNf-rmSl9RWmkSw" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## BibTex
-<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <pre>
-  @InProceedings{cstbir2024aaai,
-        author    = {Sapkal, Vivek and Yadav, Kapil and Arsewad, Bagwan and Gavankar, Heramb and Patel, Raj and Suhani and Jateen},
-        title     = {Face Recognition on Labelled Faces in the Wild (Dataset)},
-        year      = {2024},
-    }      
-  </pre>
+<div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0;">
+    <pre>
+@online{AnalyticaVidhya,
+    author = "Aishwarya Singh",
+    title = "Feature Engineering for Images: A Valuable Introduction to the HOG Feature Descriptor",
+    url  = "https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/",
+    addendum = "(accessed: 07.04.2024)",
+    keywords = "latex,Hog,features"
+}
+
+@online{Medium_aricle,
+    author = "Mahmoud Harmouch",
+    title = "Local Binary Pattern Algorithm: The Math Behind It",
+    url  = "https://medium.com/swlh/local-binary-pattern-algorithm-the-math-behind-it-%EF%B8%8F-edf7b0e1c8b3",
+    addendum = "(accessed: 04.04.2024)",
+    keywords = "latex,LocalBinaryPattern,featureExtraction"
+}
+
+@online{Neural_network,
+    author = "Michael Nielsen",
+    title = "How the backpropagation algorithm works",
+    url  = "http://neuralnetworksanddeeplearning.com/chap2.html",
+    addendum = "(accessed: 28.03.2024)",
+    keywords = "latex,neuralnetworks,backpropagation"
+}
+
+@online{CNNResnet,
+    author = "Jeff Prosise",
+    title = "Facial Recognition with CNNs",
+    url  = "https://www.atmosera.com/blog/facial-recognition-with-cnns/",
+    addendum = "(accessed: 14.04.2024)",
+    keywords = "latex,CNN,Resnet"
+}
+    </pre>
 </div>
+
 
 ## Acknowledgment
 We would like to express my sincere gratitude to Anand Mishra, Assitant Professor, for this course project .
 
-Special thanks to [Name, Position/Role], for [specific contribution, e.g., "providing the necessary resources and facilities"].
-
-I am also grateful to [Name], [Position/Role], for [specific contribution, e.g., "their technical assistance and expertise in [specific area]"].
-
-I would also like to thank [Name(s) or Organization(s)], for [specific contribution, e.g., "providing [specific resources or funding]"].
-
-Lastly, I extend my appreciation to [Name], [Position/Role], for [specific contribution, e.g., "their constructive feedback and insightful discussions"].
-
 ## Contact
-For questions, please contact any of the coordinators or raise an issue on GitHub.
+For questions, please contact any of the coordinators or raise an issue on <a href="https://github.com/ykapil897/face-recognition"> Github </a>.
 

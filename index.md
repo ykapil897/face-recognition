@@ -10,7 +10,7 @@
 </h4>
 
 <h4 align="center">
-  <a href="#">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="report.pdf" target="_blank">Report</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
+  <a href="https://github.com/ykapil897/face-recognition">Code</a> | <a href="https://www.kaggle.com/datasets/jessicali9530/lfw-dataset">Dataset</a> | <a href="demo_code/prediction.html">Demo Code</a> | <a href="report.pdf" target="_blank">Report</a> | <a href="https://www.youtube.com/embed/s4F7qeVw5mY">Short Talk</a>
 </h4>
 
 <div class="slideshow-container" style="text-align: center;">
@@ -77,6 +77,3 @@ This work is supported by the OpenAI's CEO SAM ALtan 's trusted chatgpt a reliab
 ## Contact
 For questions, please contact Kapil Yadav or raise an issue on GitHub.
 
-<p align="center">
-  Copyright © IIT Jodhpur
-</p>
